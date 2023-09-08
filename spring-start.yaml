@@ -23,7 +23,7 @@ john.name: John
 welcome:
   help:
     file: c:/help-file.pdf
-    app-id: 123
+#    app-id: 123
   localContactPhone:
     FR: 430123414123
     RO: 401312121414
