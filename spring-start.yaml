@@ -32,7 +32,7 @@ welcome:
     - http://stackoverflow.com
     - http://baeldung.com
     - http://spring.io
-  welcome-message: Hello from Config Server CHANGE
+  welcome-message: Hello from Config Server CHANGE AGAIN
 
 prod.stuff.only: 10
 #mail.sender.dummy: true
