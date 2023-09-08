@@ -37,4 +37,4 @@ welcome:
 prod.stuff.only: 10
 #mail.sender.dummy: true
 
-management.endpoints.web.exposure.include: *
+management.endpoints.web.exposure.include: "*"
